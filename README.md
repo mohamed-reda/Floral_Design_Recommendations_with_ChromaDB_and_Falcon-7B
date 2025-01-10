@@ -6,7 +6,8 @@ The "Floral Design Recommendations with ChromaDB and Falcon-7B" project leverage
 provide design suggestions based on floral images and user queries. By utilizing ChromaDB for managing image data and
 Falcon-7B for processing natural language, the system generates tailored recommendations for floral designs.
 
-example of the system:
+## Example of the system:
+
 pink flower with yellow center
 
 ![img.png](img.png)
